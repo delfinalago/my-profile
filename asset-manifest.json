@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-profile/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/my-profile/static/js/main.d33135f8.chunk.js",
+    "main.js.map": "/my-profile/static/js/main.d33135f8.chunk.js.map",
+    "runtime-main.js": "/my-profile/static/js/runtime-main.ccf3d9f2.js",
+    "runtime-main.js.map": "/my-profile/static/js/runtime-main.ccf3d9f2.js.map",
+    "static/js/2.9cee25b2.chunk.js": "/my-profile/static/js/2.9cee25b2.chunk.js",
+    "static/js/2.9cee25b2.chunk.js.map": "/my-profile/static/js/2.9cee25b2.chunk.js.map",
+    "static/js/3.8a914386.chunk.js": "/my-profile/static/js/3.8a914386.chunk.js",
+    "static/js/3.8a914386.chunk.js.map": "/my-profile/static/js/3.8a914386.chunk.js.map",
+    "index.html": "/my-profile/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/my-profile/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.9cee25b2.chunk.js.LICENSE.txt": "/my-profile/static/js/2.9cee25b2.chunk.js.LICENSE.txt",
+    "static/media/delfiProfile.639eefab.png": "/my-profile/static/media/delfiProfile.639eefab.png",
+    "static/media/logo.6ce24c58.svg": "/my-profile/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccf3d9f2.js",
+    "static/js/2.9cee25b2.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d33135f8.chunk.js"
+  ]
+}
