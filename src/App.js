@@ -1,15 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
-
-import delfiProfile from './img/delfiProfile.png'
+import Routes from'./Routes';
+import {ThemeProvider} from '@material-ui/core/styles';
+import theme from './themeProfile'
 
 function App() {
+
   return (
-    <div className="App">
-      <h1>My profile deployed!</h1>
-        <h2>I can't believe is working</h2>
-        <img src={delfiProfile} alt="profile-imagen" />
-    </div>
+  <ThemeProvider theme={theme}>
+    <Routes/>
+  </ThemeProvider>
   );
 }
 
